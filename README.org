@@ -1,0 +1,8 @@
+#+STARTUP: overview
+#+TITLE: yomichan-anki-templates
+#+LANGUAGE: en
+#+OPTIONS: num:nil
+
+Templates for anki and yomichan to produce single-target sentence cards.
+* Yomichan card format settings
+[[./card-format.png]]

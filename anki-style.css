@@ -1,0 +1,59 @@
+p {
+    margin: 0px
+}
+
+h2 {
+    margin: 0px
+}
+
+small {
+    margin: 0px
+}
+
+.card {
+  font-family: arial;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  background-color: white;
+  white-space: pre-line;
+}
+
+#sentence {
+    font-size: 30px
+}
+
+
+.furigana {
+		font-size: 30px
+}
+
+.context.night_mode {
+    text-decoration: none;
+    color: red;
+}
+.context {
+    text-decoration: none;
+    color: red;
+}
+
+.image img {
+  position: static;
+  height: auto;
+  width: auto;
+  max-height: 250px;
+}
+.pitch{
+  border-top: solid red 2px;
+  padding-top: 1px;
+}
+
+.pitch_end{
+  border-color: red;
+  border-right: solid red 2px;
+  border-top: solid red 2px;  
+  line-height: 1px;
+  margin-right: 1px;
+  padding-right: 1px;
+  padding-top:1px;
+}
