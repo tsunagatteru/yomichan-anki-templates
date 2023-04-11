@@ -3,6 +3,7 @@
 #+LANGUAGE: en
 #+OPTIONS: num:nil
 
+Actually, i use this now for [[https://github.com/Ajatt-Tools/rikaitan][rikaitan]] instead of yomichan but it still compatible with latter.
 Templates for anki and yomichan to produce single-target sentence cards.
 * Yomichan card format settings
 [[./card-format.png]]
